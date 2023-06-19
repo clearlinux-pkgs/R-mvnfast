@@ -4,7 +4,7 @@
 #
 Name     : R-mvnfast
 Version  : 0.2.8
-Release  : 27
+Release  : 28
 URL      : https://cran.r-project.org/src/contrib/mvnfast_0.2.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/mvnfast_0.2.8.tar.gz
 Summary  : Fast Multivariate Normal and Student's t Methods
